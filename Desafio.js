@@ -11,5 +11,5 @@ for (let contador = 1; contador < listadeAlunos.length; contador++) {
     else{
         console.log(`${nome} está na posição ${contador} e este número é impar`)
     }
-      
-}
+    contador++
+}      
