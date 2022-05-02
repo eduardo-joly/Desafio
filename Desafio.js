@@ -13,3 +13,4 @@ for (let contador = 1; contador < listadeAlunos.length; contador++) {
     }
     contador++
 }      
+}
